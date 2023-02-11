@@ -10,4 +10,5 @@
 - TypeScript
 - CLSX
 
-
+#Sobre
+Habits é um app onde o usuário gerência os seus hábitos
